@@ -165,3 +165,6 @@ p {
 .p-20{
     padding: .5rem!important;
 }
+.about-img{
+    background-image: url('docs/assets/images/IMG_8619.jpg');
+}
